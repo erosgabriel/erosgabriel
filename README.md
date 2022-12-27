@@ -6,5 +6,3 @@
 - 🤔 I’m looking for jobs;
 - 😄 Pronouns: he/him;
 - ⚡ Best fact: Brazilian;
-
-<img src="inicial.png"></img>
