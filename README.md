@@ -1,7 +1,7 @@
 <h1 align="left">Hi<img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Eros</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=erosgabriel&color=blue" alt="Profile views" /> </p>
 
-<img align="right" width="420em" src="https://github-readme-stats.vercel.app/api?username=erosgabriel&show_icons=true&theme=dark" alt="erosgabriel's stats"/>
+<img align="right" width="430em" src="https://github-readme-stats.vercel.app/api?username=erosgabriel&show_icons=true&theme=dark" alt="erosgabriel's stats"/>
 
 - 🧙‍♂️ A HTML/CSS mage;
 - 🌱 I’m learning JAVASCRIPT, NODE.JS, VueJS;
@@ -23,4 +23,4 @@
    <a href="https://www.linkedin.com/in/ericcirilo" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=flat&logo=linkedin&logoColor=white" target="_blank"></a>
 <div/>
 
-<img align="right" height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erosgabriel&layout=compact&langs_count=7&theme=dark"/>
+<img align="right" height="110em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erosgabriel&layout=compact&langs_count=7&theme=dark"/>
