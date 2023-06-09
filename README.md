@@ -21,7 +21,7 @@
 <img align="right" height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erosgabriel&layout=compact&langs_count=7&theme=dark"/>
 
 
- <div>
+ <div align="left">
    <a href="https://instagram.com/erosgabs.js" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=flat&logo=instagram&logoColor=white" target="_blank"></a>
    <a href="https://www.linkedin.com/in/ericcirilo" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=flat&logo=linkedin&logoColor=white" target="_blank"></a>
   <div/>
