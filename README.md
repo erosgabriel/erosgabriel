@@ -1,7 +1,7 @@
 <h1 align="left">Hi<img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Eros</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=erosgabriel&color=blue" alt="Profile views" /> </p>
 
-<img align="right" width="430em" src="https://github-readme-stats.vercel.app/api?username=erosgabriel&show_icons=true&theme=dark" alt="erosgabriel's stats"/>
+<img align="right" width="420em" src="https://github-readme-stats.vercel.app/api?username=erosgabriel&show_icons=true&theme=dark" alt="erosgabriel's stats"/>
 
 - 🧙‍♂️ A HTML/CSS mage;
 - 🌱 I’m learning JAVASCRIPT, NODE.JS, VueJS;
