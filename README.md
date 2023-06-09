@@ -1,5 +1,5 @@
 <h1 align="left">Hi<img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Eros</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=erosgabriel&color=yellow" alt="Profile views" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=erosgabriel&color=blue" alt="Profile views" /> </p>
 
 
 - 🧙‍♂️ A HTML/CSS mage
@@ -18,5 +18,5 @@
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;-->
 
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=erosgabriel&show_icons=true&theme=vision-friendly-dark" alt="maykbrito's stats"/>
+<img width="450em" src="https://github-readme-stats.vercel.app/api?username=erosgabriel&show_icons=true&theme=dark" alt="erosgabriel's stats"/>
 
