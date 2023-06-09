@@ -3,12 +3,11 @@
 
 <img align="right" width="450em" src="https://github-readme-stats.vercel.app/api?username=erosgabriel&show_icons=true&theme=dark" alt="erosgabriel's stats"/>
 
-- 🧙‍♂️ A HTML/CSS mage
+- 🧙‍♂️ A HTML/CSS mage;
 - 🌱 I’m learning JAVASCRIPT, NODE.JS, VueJS;
 - 👯 I’m ready to collaborate on everything;
 - 👔 I’m looking for jobs, maybe;
 - 😄 Pronouns: he/him;
-- ⚡ Best fact: brazilian;
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
@@ -19,4 +18,12 @@
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;-->
 
-<img align="right" height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erosgabriel&layout=compact&langs_count=7&theme=dark"/>
+<img align="right" height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erosgabriel&layout=compact&langs_count=7&theme=dark"/>
+
+
+ <div>
+   <a href="https://instagram.com/erosgabs.js" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=flat&logo=instagram&logoColor=white" target="_blank"></a>
+   <a href="https://www.linkedin.com/in/ericcirilo" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=flat&logo=linkedin&logoColor=white" target="_blank"></a>
+  <div/>
+   
+  
