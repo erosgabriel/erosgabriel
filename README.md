@@ -23,4 +23,4 @@
    <a href="https://www.linkedin.com/in/ericcirilo" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=flat&logo=linkedin&logoColor=white" target="_blank"></a>
 <div/>
 
-<img align="right" height="110em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erosgabriel&layout=compact&langs_count=7&theme=dark"/>
+<img align="right" height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erosgabriel&layout=compact&langs_count=7&theme=dark"/>
