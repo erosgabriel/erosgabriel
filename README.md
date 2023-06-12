@@ -19,7 +19,7 @@
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;-->
 
-<img align="right" height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erosgabriel&layout=compact&langs_count=7&theme=dark"/>
+<img align="right" height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erosgabriel&layout=compact&langs_count=7&theme=dark"/>
 
 <a align="left" href="https://www.last.fm/user/erosgabs"><img alt="My Last.FM" title="My Last.FM" src="https://lastfm-recently-played.vercel.app/api?user=erosgabs"/></a>
 
