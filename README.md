@@ -2,6 +2,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=erosgabriel&color=blue" alt="Profile views" /> </p>
 
    <img align="right" width="415em" src="https://github-readme-stats.vercel.app/api?username=erosgabriel&show_icons=true&theme=dark" alt="erosgabriel's stats"/>
+ 
 
 - 🧙‍♂️ A HTML/CSS mage;
 - 🌱 I’m learning JAVASCRIPT, NODE.JS, VueJS;
