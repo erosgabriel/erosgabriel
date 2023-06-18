@@ -1,7 +1,7 @@
 <h1 align="left">Hi<img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Eros</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=erosgabriel&color=blue" alt="Profile views" /> </p>
 
-   <img align="right" width="415em" src="https://github-readme-stats.vercel.app/api?username=erosgabriel&show_icons=true&theme=dark" alt="erosgabriel's stats"/>
+<img align="right" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erosgabriel&layout=compact&langs_count=7&theme=dark"/>
  
 
 - 🧙‍♂️ A HTML/CSS mage;
@@ -19,7 +19,7 @@
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;-->
 
-<img align="right" height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erosgabriel&layout=compact&langs_count=7&theme=dark"/>
+
 
 <a align="left" href="https://www.last.fm/user/erosgabs"><img alt="My Last.FM" title="My Last.FM" src="https://lastfm-recently-played.vercel.app/api?user=erosgabs"/></a>
 
